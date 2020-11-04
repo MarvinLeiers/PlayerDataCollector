@@ -1,0 +1,9 @@
+name: PlayerDataCollector
+version: ${project.version}
+main: de.marvinleiers.playerdatacollector.PlayerDataCollector
+api-version: 1.16
+authors: [ Marvin_Leiers, Marvin2k0 ]
+website: www.marvinleiers.de
+
+commands:
+  updatedata:
